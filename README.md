@@ -1,4 +1,17 @@
 # constrastive_learning_playground
-Use to demonstrate effectiveness of contrastive learing for pushing out-of-domain data from in-domain data
-<br> Start with Constrastive_playground.ipynb</br>
-<br> Supercond dataset is too large for manifold method to fit_transform, see the solution at the bottom of "Contrastive_playground_supercond.ipynb"</br>
+
+
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+This is an example of how to list things you need to use the software and how to install them.
+* npm
+  ```sh
+  npm install npm@latest -g
+  ```
